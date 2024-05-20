@@ -9,4 +9,4 @@
 
 📫 How to Reach Me
 - Email: timjrchan89@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/timothy-chan-jia-rong/)
+- [LinkedIn](https://www.linkedin.com/in/timothy-chan-jia-rong/)
