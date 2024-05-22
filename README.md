@@ -3,9 +3,10 @@
 👋 Hello! I'm Timothy, a passionate marine biologist and data scientist. 
 
 🔧 Skills & Expertise
-- Marine Biology: Marine ecosystems, biodiversity, conservation strategies
-- Data Science: Data analysis, machine learning, statistical modeling
 - Programming Languages: Python, R
+- Marine Biology: Marine ecosystems, biodiversity, conservation strategies
+- Data Science: Data analysis, machine learning, statistical modeling, data visualization, neural networks
+
 
 📫 How to Reach Me
 - Email: timjrchan89@gmail.com
