@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hello! I'm Timothy, a passionate marine biologist and data scientist. 
+👋 Hello! I'm Timothy, a passionate marine biologist and data scientist. I love taking photographs especially the lovely marine animals under the surface. I have dived in Timor-Leste, the Phillipines, Australia, Malaysia, and Indonesia and loved every single trip taking videos and photographs of my friends and the marine landscape. 
 
 🔧 Skills & Expertise
 - Programming Languages: Python, R
